@@ -6,7 +6,16 @@
     <description>Recent content on Hugo Novela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 22:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>https://example.com/post/testpost/</link>
+      <pubDate>Mon, 30 Aug 2021 22:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/testpost/</guid>
+      <description>Das ist ein test</description>
+    </item>
+    
     <item>
       <title>A story of why Forestry loves Hugo</title>
       <link>https://example.com/post/2020-04-27-building-hoppers-media-centre/</link>

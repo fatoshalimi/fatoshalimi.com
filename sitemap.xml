@@ -2,54 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fatoshalimi.com/about/</loc>
+    <loc>http://dev.fatoshalimi.com/5-tipps-fuer-bessere-meetings/</loc>
+    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/tags/bessere-meetings/</loc>
+    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/blog/</loc>
+    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/categories/</loc>
+    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/tags/meetings/</loc>
+    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/categories/produktivit%C3%A4t/</loc>
+    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/tags/</loc>
+    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/tags/tipps-f%C3%BCr-bessere-meetings/</loc>
+    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/about/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/blog/</loc>
+    <loc>http://dev.fatoshalimi.com/tags/emoji/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/tags/emoji/</loc>
+    <loc>http://dev.fatoshalimi.com/blog/emoji-support/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/blog/emoji-support/</loc>
+    <loc>http://dev.fatoshalimi.com/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fatoshalimi.com/tags/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fatoshalimi.com/tags/css/</loc>
+    <loc>http://dev.fatoshalimi.com/tags/css/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/tags/html/</loc>
+    <loc>http://dev.fatoshalimi.com/tags/html/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/tags/markdown/</loc>
+    <loc>http://dev.fatoshalimi.com/tags/markdown/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/blog/markdown-syntax/</loc>
+    <loc>http://dev.fatoshalimi.com/blog/markdown-syntax/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/blog/math-typesetting/</loc>
+    <loc>http://dev.fatoshalimi.com/blog/math-typesetting/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/blog/placeholder-text/</loc>
+    <loc>http://dev.fatoshalimi.com/blog/placeholder-text/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/tags/privacy/</loc>
+    <loc>http://dev.fatoshalimi.com/tags/privacy/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/blog/rich-content/</loc>
+    <loc>http://dev.fatoshalimi.com/blog/rich-content/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/tags/shortcodes/</loc>
+    <loc>http://dev.fatoshalimi.com/tags/shortcodes/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/tags/text/</loc>
+    <loc>http://dev.fatoshalimi.com/tags/text/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fatoshalimi.com/categories/</loc>
+    <loc>http://dev.fatoshalimi.com/3-gruende-fuer-mangelhafte-requirements/</loc>
+    <lastmod>2021-03-04T18:45:40+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/tags/requirements-engineering/</loc>
+    <lastmod>2021-03-04T18:45:40+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/categories/requirements-engineering/</loc>
+    <lastmod>2021-03-04T18:45:40+00:00</lastmod>
   </url>
 </urlset>

@@ -2,32 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dev.fatoshalimi.com/5-tipps-fuer-bessere-meetings/</loc>
-    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dev.fatoshalimi.com/tags/bessere-meetings/</loc>
-    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+    <loc>http://dev.fatoshalimi.com/blog/2021-08-24-5-tipps-fuer-bessere-meetings/</loc>
+    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/blog/</loc>
-    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dev.fatoshalimi.com/categories/</loc>
-    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+    <loc>http://dev.fatoshalimi.com/tags/it/</loc>
+    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dev.fatoshalimi.com/tags/meetings/</loc>
-    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dev.fatoshalimi.com/categories/produktivit%C3%A4t/</loc>
-    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
+    <loc>http://dev.fatoshalimi.com/tags/produktivit%C3%A4t/</loc>
+    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/tags/</loc>
-    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dev.fatoshalimi.com/tags/tipps-f%C3%BCr-bessere-meetings/</loc>
-    <lastmod>2021-08-23T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dev.fatoshalimi.com/about/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/tags/emoji/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
@@ -36,6 +24,9 @@
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/about/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/tags/css/</loc>
@@ -69,6 +60,9 @@
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/3-gruende-fuer-mangelhafte-requirements/</loc>
+    <lastmod>2021-03-04T18:45:40+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/categories/</loc>
     <lastmod>2021-03-04T18:45:40+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/tags/requirements-engineering/</loc>

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fatos Halimi</title>
-    <link>http://dev.fatoshalimi.com/tags/</link>
+    <link>https://fatoshalimi.com/tags/</link>
     <description>Recent content in Tags on Fatos Halimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://dev.fatoshalimi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fatoshalimi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IT</title>
-      <link>http://dev.fatoshalimi.com/tags/it/</link>
+      <link>https://fatoshalimi.com/tags/it/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://dev.fatoshalimi.com/tags/it/</guid>
+      <guid>https://fatoshalimi.com/tags/it/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Produktivität</title>
-      <link>http://dev.fatoshalimi.com/tags/produktivit%C3%A4t/</link>
+      <link>https://fatoshalimi.com/tags/produktivit%C3%A4t/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://dev.fatoshalimi.com/tags/produktivit%C3%A4t/</guid>
+      <guid>https://fatoshalimi.com/tags/produktivit%C3%A4t/</guid>
       <description></description>
     </item>
     

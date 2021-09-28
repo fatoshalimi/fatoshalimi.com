@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FH on Fatos Halimi</title>
-    <link>http://dev.fatoshalimi.com/</link>
+    <link>https://fatoshalimi.com/</link>
     <description>Recent content in FH on Fatos Halimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://dev.fatoshalimi.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fatoshalimi.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Tipps für bessere Meetings</title>
-      <link>http://dev.fatoshalimi.com/blog/2021-08-24-5-tipps-fuer-bessere-meetings/</link>
+      <link>https://fatoshalimi.com/blog/2021-08-24-5-tipps-fuer-bessere-meetings/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://dev.fatoshalimi.com/blog/2021-08-24-5-tipps-fuer-bessere-meetings/</guid>
+      <guid>https://fatoshalimi.com/blog/2021-08-24-5-tipps-fuer-bessere-meetings/</guid>
       <description>Meetings. Ein Wort, das nicht gerade für Begeisterung sorgt. Doch warum ist das so? Wie kann man dennoch das Beste aus Meetings herausholen? Auch wenn Meetings nun auch virtuell stattfinden, sind sie auch in den nächsten Jahrzehnten in einer professionellen Welt wichtig.
 Nachdem ich viele Meetings selbst organisiert habe und auch bei vielen teilgenommen habe, muss ich ehrlich sagen, dass nicht viele davon wichtig waren. Im Gegenteil waren sie meist ineffizient und manchmal auch unnötig.</description>
     </item>
     
     <item>
       <title>Impressum &amp; Datenschutz</title>
-      <link>http://dev.fatoshalimi.com/impressum/</link>
+      <link>https://fatoshalimi.com/impressum/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://dev.fatoshalimi.com/impressum/</guid>
+      <guid>https://fatoshalimi.com/impressum/</guid>
       <description>Impressum -- Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz.
 Fatos Halimi
 7000 Eisenstadt, Österreich
@@ -33,19 +33,19 @@ Fotograf Mustermann  Urheberrechtshinweis Alle Inhalte dieser Webseite (Bilder, 
     
     <item>
       <title>Über mich</title>
-      <link>http://dev.fatoshalimi.com/about/</link>
+      <link>https://fatoshalimi.com/about/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://dev.fatoshalimi.com/about/</guid>
+      <guid>https://fatoshalimi.com/about/</guid>
       <description>Woran ich gerade arbeite  👨‍💻 Arbeite als Product Owner in Österreich und habe meine Karriere 2015 als Software Engineer gestartet. 👨🏼‍🎓 Habe von der FH Technikum Wien einen Bachelor of Science in Wirtschaftsinformatik &amp;amp; einen Ingenieur Titel von der WKO. 📚 Bin dabei meinen Master of Science in Wirtschaftsinformatik an der FH Technikum Wien zu machen. ✍️ Auf meiner Webseite schreibe ich Artikel über Themen in der IT, Produktivität, Persönliche Finanzen und allgemeine Lebensratschläge, die ich im Laufe der Jahre als hilfreich empfunden habe.</description>
     </item>
     
     <item>
       <title>3 Gründe für mangelhafte Requirements</title>
-      <link>http://dev.fatoshalimi.com/blog/2021-03-04-3-gruende-fuer-mangelhafte-requirements/</link>
+      <link>https://fatoshalimi.com/blog/2021-03-04-3-gruende-fuer-mangelhafte-requirements/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://dev.fatoshalimi.com/blog/2021-03-04-3-gruende-fuer-mangelhafte-requirements/</guid>
+      <guid>https://fatoshalimi.com/blog/2021-03-04-3-gruende-fuer-mangelhafte-requirements/</guid>
       <description>Requirements Engineering ist ein Prozess, dessen Ziel es ist, die Wünsche des Kunden bzw. Stakeholder zu erkennen und diese in eine passende Sprache zu formulieren, die von allen Stakeholdern verstanden wird. Im Zuge dieses Prozesses können verschiedene Faktoren ausschlaggebend dafür sein, dass es zu mangelhafte Requirements kommt.
 Ein Stakeholder ist gemäß dem [IREB Glossary](https://www.ireb.org/de/cpre/cpre-glossary/&amp;#34; target=&amp;quot;_blank&amp;quot; rel=&amp;ldquo;noreferrer noopener &amp;ldquo;IREB Glossary&amp;rdquo;) “eine Person oder Organisation, die Einfluss auf die Anforderungen eines Systems hat oder die von diesem System betroffen ist.</description>
     </item>

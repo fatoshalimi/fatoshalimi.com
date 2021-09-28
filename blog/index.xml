@@ -6,7 +6,16 @@
     <description>Recent content in Blog on Fatos Halimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://dev.fatoshalimi.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://dev.fatoshalimi.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FTestPost</title>
+      <link>http://dev.fatoshalimi.com/blog/ftestpost/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.fatoshalimi.com/blog/ftestpost/</guid>
+      <description>YYYY-MM-DDYYYY-MM-DDYYYY-MM-DDYYYY-MM-DDYYYY-MM-DDYYYY-MM-DD</description>
+    </item>
+    
     <item>
       <title>5 Tipps für bessere Meetings</title>
       <link>http://dev.fatoshalimi.com/blog/2021-08-24-5-tipps-fuer-bessere-meetings/</link>

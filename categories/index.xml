@@ -5,6 +5,16 @@
     <link>http://dev.fatoshalimi.com/categories/</link>
     <description>Recent content in Categories on Fatos Halimi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="http://dev.fatoshalimi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://dev.fatoshalimi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>asd</title>
+      <link>http://dev.fatoshalimi.com/categories/asd/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.fatoshalimi.com/categories/asd/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dev.fatoshalimi.com/blog/2021-08-24-5-tipps-fuer-bessere-meetings/</loc>
-    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
+    <loc>http://dev.fatoshalimi.com/tags/asd/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/categories/asd/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/blog/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/categories/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/blog/ftestpost/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/tags/</loc>
+    <lastmod>2021-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dev.fatoshalimi.com/blog/2021-08-24-5-tipps-fuer-bessere-meetings/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/tags/it/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/tags/produktivit%C3%A4t/</loc>
-    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dev.fatoshalimi.com/tags/</loc>
     <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://dev.fatoshalimi.com/</loc>
@@ -25,7 +37,5 @@
   </url><url>
     <loc>http://dev.fatoshalimi.com/blog/2021-03-04-3-gruende-fuer-mangelhafte-requirements/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://dev.fatoshalimi.com/categories/</loc>
   </url>
 </urlset>

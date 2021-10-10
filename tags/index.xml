@@ -6,22 +6,31 @@
     <description>Recent content in Tags on Fatos Halimi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-AT</language>
-    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fatoshalimi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fatoshalimi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>IT</title>
-      <link>https://fatoshalimi.com/tags/it/</link>
-      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <title>Management</title>
+      <link>https://fatoshalimi.com/tags/management/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fatoshalimi.com/tags/it/</guid>
+      <guid>https://fatoshalimi.com/tags/management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Produktivität</title>
       <link>https://fatoshalimi.com/tags/produktivit%C3%A4t/</link>
-      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fatoshalimi.com/tags/produktivit%C3%A4t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT</title>
+      <link>https://fatoshalimi.com/tags/it/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatoshalimi.com/tags/it/</guid>
       <description></description>
     </item>
     

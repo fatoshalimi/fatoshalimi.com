@@ -8,6 +8,17 @@
     <language>de-AT</language>
     <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fatoshalimi.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Kostenloses Speech-To-Text AI Tool für Transkribieren mit Google Colab</title>
+      <link>https://fatoshalimi.com/blog/whisper_google_colab/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatoshalimi.com/blog/whisper_google_colab/</guid>
+      <description>Whisper ist eine automatische Spracherkennungssystem (ASR) von OpenAI, dass in 680000 Stunden an überwachten Daten aus dem Internet trainiert und kostenlos in Github zur Verfügung gestellt.
+Warum ist das so interessant ist? Nun hat man eine kostenlose Möglichkeit Sprachaufnahmen direkt transkribieren und von verschiedenen Sprachen in verschieden Sprachen übersetzen zu lassen.
+In dem Post schauen wir uns mal an wie man beispielsweise die Aufnahme eines Interviews einfach und kostenlos transkribieren kann.</description>
+    </item>
+    
+    <item>
       <title>Digitales Führen</title>
       <link>https://fatoshalimi.com/blog/digitales-fuhren/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
